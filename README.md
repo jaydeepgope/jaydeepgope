@@ -12,7 +12,7 @@
 - 💬 Ask me about **manual testing, test case design, Selenium, API testing, JIRA, Postman**  
 - 📫 How to reach me: **jaydeepgope@gmail.com**  
 - 📄 You can view or download my resume from this link: [Jaydeep Gope – Resume](https://drive.google.com/file/d/1XqmQRanKXqVjbCjOG5bhHddGrJw1_4-e/view?usp=drivesdk)
-- 🌐 Portfolio: [jaydeepgope.github.io](#) *(Optional)*
+  
 
 ---
 
