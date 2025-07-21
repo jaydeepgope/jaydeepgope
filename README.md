@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jaydeep Gope</h1>
+<h3 align="center">QA Engineer | Software Tester | Automation Enthusiast</h3>
 
-<!--
-**jaydeepgope/jaydeepgope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaydeepgope&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepgope" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a **QA Engineer at Adrasti (Since Feb 2025)**  
+- 🌱 I’m learning **Advanced Test Automation, CI/CD pipelines, and DevOps tools**  
+- 💬 Ask me about **manual testing, test case design, Selenium, API testing, JIRA, Postman**  
+- 📫 How to reach me: **your-email@example.com**  
+- 📄 Know about my work: [My Resume](#) *(Upload it or link it here)*  
+- 🌐 Portfolio: [jaydeepgope.github.io](#) *(Optional)*
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Test-Automation-blue?style=flat-square&logo=selenium" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/API-Postman-orange?style=flat-square&logo=postman" />
+  <img src="https://img.shields.io/badge/BugTracking-JIRA-blue?style=flat-square&logo=jira" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-green?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/TestCases-TestRail-lightgrey?style=flat-square" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydeepgope&show_icons=true&theme=radical" alt="jaydeepgope" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeepgope&theme=radical" alt="jaydeepgope" />
+</p>
+
+---
+
+### 🧠 Recent Projects
+
+- 🔍 **[Bug Tracker System](#)** – Built a system to log, assign, and track bugs for test teams  
+- 🤖 **[Selenium Automation Suite](#)** – Automated UI testing for a sample e-commerce site  
+- 🌐 **[API Testing Framework](#)** – Designed Postman/Newman-based framework with reusable collections
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jaydeepgope/" target="_blank"><img alt="Jaydeep's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+⭐️ **Thank you for visiting my GitHub profile!**
