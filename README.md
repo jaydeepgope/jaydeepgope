@@ -20,7 +20,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Test-Automation-blue?style=flat-square&logo=selenium" />
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/API-Postman-orange?style=flat-square&logo=postman" />
   <img src="https://img.shields.io/badge/BugTracking-JIRA-blue?style=flat-square&logo=jira" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-green?style=flat-square&logo=github-actions" />
