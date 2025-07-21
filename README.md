@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as a **QA Engineer at Adrasti (Since Feb 2025)**  
 - 🌱 I’m learning **Advanced Test Automation, CI/CD pipelines, and DevOps tools**  
 - 💬 Ask me about **manual testing, test case design, Selenium, API testing, JIRA, Postman**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **jaydeepgope@gmail.com**  
 - 📄 Know about my work: [My Resume](#) *(Upload it or link it here)*  
 - 🌐 Portfolio: [jaydeepgope.github.io](#) *(Optional)*
 
@@ -52,8 +52,8 @@
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/jaydeepgope/" target="_blank"><img alt="Jaydeep's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jaydeepgope1/" target="_blank"><img alt="Jaydeep's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="jaydeepgope@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
