@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/API-Postman-orange?style=flat-square&logo=postman" />
   <img src="https://img.shields.io/badge/BugTracking-JIRA-blue?style=flat-square&logo=jira" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-green?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=flat-square&logo=jenkins" />
   <img src="https://img.shields.io/badge/TestCases-TestRail-lightgrey?style=flat-square" />
 </p>
 
